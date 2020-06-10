@@ -1,0 +1,9 @@
+Painel 1  
+Painel 2 A0
+Painel 3 A1
+Painel 4 A0 A1
+
+Bat_out 
+Bat_in A0
+3v3 A1
+5V A0 A1

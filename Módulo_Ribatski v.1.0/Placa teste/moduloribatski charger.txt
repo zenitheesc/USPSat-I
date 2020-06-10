@@ -1,0 +1,3 @@
+Resistencia Interna 311mOHM
+Tensão Nominal: 7.2v
+

@@ -1,0 +1,5 @@
+BRANCO - Resistencia
+AZUL - Thermistor 1
+VERDE - Thermistor 2
+PRETO - GND
+VERMELHO - VCC
