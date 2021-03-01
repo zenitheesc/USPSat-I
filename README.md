@@ -112,7 +112,7 @@ Check out the official documentation [here](https://github.com/zenitheesc/USPSat
 
 <img src="https://github.com/zenitheesc/Zenith-Wiki/blob/gh-pages/assets/images/20190722_043926.jpg" alt="drawing" width="300" align="center"/>
 </p>
----
+
 
 <p align="center">
     <a href="http://zenith.eesc.usp.br">
