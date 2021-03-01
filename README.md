@@ -46,7 +46,7 @@ This subsystem is primarily responsible for
 for the active thermal control of the batteries, as proposed by the competition,
 in addition to supporting the deployment system of the nanosatellite antennas.
 
-<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Varela-Logical_EPS%20v.1.0"><h2>Logical EPS</h2></a>
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Varela-Logical_EPS%20v.1.0"><h2>2. Logical EPS</h2></a>
 <p align = "center">
 <img src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/eps2.jpg"/>
 </p>
