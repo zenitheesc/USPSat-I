@@ -62,6 +62,9 @@ carry out communication with other subsystems.
 <img src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/eps1.jpg"/>
 </p>
 
+Functioning as an extension of the previous subsystem, it performs conversions of battery voltage levels to the levels requested within the
+hardware, making the necessary distribution, as well as controlling the loading of batteries through solar panels.
+
 <a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Caurin_CDH%20v.1.0"><h2>4. Comanding and Data Handling</h2></a>
 
 <p align = "center">
