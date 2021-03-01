@@ -1,4 +1,5 @@
 
+
 <h1 align="center" style="color:white; background-color:black">USP Sat-AE1</h1>
 <h4 align="center">This is an Open Hardware and Software cubesat developed by Zenith EESC-USP for the Cubedesign 2019.</h4>
 
@@ -49,9 +50,7 @@ The project was based on distributed processing architecture and using microcont
 
 ## Official Documentation
 
-`(optional, depends on the project) list of simple rules to help people work on the project.`
-
-`Examples: How to format a pull request\n How to format an issue`
+Check out the official documentation [here](https://github.com/zenitheesc/USPSat-AE1/blob/master/USPSat_Report.pdf)
 
 ---
 
