@@ -36,7 +36,7 @@
 
 The project was based on distributed processing architecture and using microcontrollers with ARM architecture. The Embedded System was composed by six subsystems:
 
-## 1. Thermal Management
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/M%C3%B3dulo_Ribatski%20v.1.0"><h2>1. Thermal management</h2></a>
 
 <p align = "center">
 <img src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/thermmgn.jpg"/>
@@ -56,13 +56,13 @@ that is, it performs the measurement of voltage and current levels at various po
 monitors the temperature of the batteries and acts to keep it always positive, in addition to
 carry out communication with other subsystems.
 
-## 3. Power EPS
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/London-Power_EPS%20v.1.1"><h2>3. Power EPS</h2></a>
 
 <p align = "center">
 <img src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/eps1.jpg"/>
 </p>
 
-## 4. Comanding and Data Handling
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Caurin_CDH%20v.1.0"><h2>4. Comanding and Data Handling</h2></a>
 
 <p align = "center">
 <img src="https://github.com/zenitheesc/Zenith-Wiki/blob/gh-pages/assets/images/comm.jpg?raw=true"/>
@@ -71,7 +71,7 @@ carry out communication with other subsystems.
 It concentrates one of the processing within CubeSat. It is responsible for managing the information
 present in the prototype's internal network, by managing the information received and sent to the Control Base and control of the deployment of the antennas.
 
-## 5. Computational Vision
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Comin_CTR%20v.1.0"><h2>5. Computational Vision</h2></a>
 
 <p align = "center">
 <img src="https://github.com/zenitheesc/Zenith-Wiki/blob/gh-pages/assets/images/process.jpg?raw=true"/>
@@ -81,7 +81,7 @@ processing within CubeSat. It is responsible for managing the information
 present in the prototype's internal network, by managing the information received
 and sent to the Control Base and control of the deployment of the antennas.
 
-## 6. Atittude Control
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Alves_ADC%20v.1.0"><h2> 6. Attitude Control </h2></a>
 
 <p align = "center">
 <img src="https://github.com/zenitheesc/Zenith-Wiki/blob/gh-pages/assets/images/ctr.jpg?raw=true"/>
