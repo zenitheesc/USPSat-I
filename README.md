@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center" style="color:white; background-color:black">USP Sat-AE1</h1>
+<h1 align="center" style="color:white; background-color:black">USP Sat-I</h1>
 <h4 align="center">This is an Open Hardware and Software cubesat developed by Zenith EESC-USP for the Cubedesign 2019.</h4>
 
 <p align="center">
