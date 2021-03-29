@@ -79,10 +79,7 @@ present in the prototype's internal network, by managing the information receive
 <p align = "center">
 <img src="https://github.com/zenitheesc/Zenith-Wiki/blob/gh-pages/assets/images/process.jpg?raw=true"/>
 </p>
-It concentrates one of the
-processing within CubeSat. It is responsible for managing the information
-present in the prototype's internal network, by managing the information received
-and sent to the Control Base and control of the deployment of the antennas.
+This subsystem is responsible for image aquisition and on board image processing, for attitude determination using computational vision.
 
 <a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Alves_ADC%20v.1.0"><h2> 6. Attitude Control </h2></a>
 
