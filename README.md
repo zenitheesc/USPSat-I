@@ -34,7 +34,7 @@
     </a>
 </p>
 
-The project was based on distributed processing architecture and using microcontrollers with ARM architecture. The Embedded System was composed by six subsystems:
+This project was based on a distributed processing architecture and it uses microcontrollers with ARM architecture. The Embedded System is composed by six subsystems:
 
 <a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/M%C3%B3dulo_Ribatski%20v.1.0"><h2>1. Thermal management</h2></a>
 
@@ -43,7 +43,7 @@ The project was based on distributed processing architecture and using microcont
 </p>
 
 This subsystem is primarily responsible for
-for the active thermal control of the batteries, as proposed by the competition,
+the active thermal control of the batteries, as proposed by the competition,
 in addition to supporting the deployment system of the nanosatellite antennas.
 
 <a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Varela-Logical_EPS%20v.1.0"><h2>2. Logical EPS</h2></a>
@@ -54,7 +54,7 @@ in addition to supporting the deployment system of the nanosatellite antennas.
 Ensures the monitoring and control of EPS panel parameters,
 that is, it performs the measurement of voltage and current levels at various points on the CubeSat;
 monitors the temperature of the batteries and acts to keep it always positive, in addition to
-carry out communication with other subsystems.
+carrying out the communication to other subsystems.
 
 <a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/London-Power_EPS%20v.1.1"><h2>3. Power EPS</h2></a>
 
@@ -74,12 +74,12 @@ hardware, making the necessary distribution, as well as controlling the loading 
 It concentrates one of the processing within CubeSat. It is responsible for managing the information
 present in the prototype's internal network, by managing the information received and sent to the Control Base and control of the deployment of the antennas.
 
-<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Comin_CTR%20v.1.0"><h2>5. Computational Vision</h2></a>
+<a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Comin_CTR%20v.1.0"><h2>5. Computer Vision</h2></a>
 
 <p align = "center">
 <img src="https://github.com/zenitheesc/Zenith-Wiki/blob/gh-pages/assets/images/process.jpg?raw=true"/>
 </p>
-This subsystem is responsible for image aquisition and on board image processing, for attitude determination using computational vision.
+This subsystem is responsible for image aquisition and on board image processing, for attitude determination using computer vision.
 
 <a href="https://github.com/zenitheesc/USPSat-AE1/tree/master/Alves_ADC%20v.1.0"><h2> 6. Attitude Control </h2></a>
 
@@ -99,7 +99,7 @@ Conservation of Angular Momentum, manages to act in the attitude of the satellit
 
 Finally, we have the subsystem responsible for the physical integration of all
 the subsystems described earlier. All manufacturing issues involving
-the physical structure of USPSat is the responsibility of the structures subsystem. THE
+the physical structure of USPSat is the responsibility of the structures subsystem. The
 determination of the materials used, the choice of manufacturing processes and display of all components, aiming at a satisfactory performance in the
 vibration, are the main focuses of this subsystem
 
